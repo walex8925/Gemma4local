@@ -1,7 +1,3 @@
-根据笔记内容，我来为这个项目生成一个 README：
-
----
-
 # Local LLM Hardware Matcher — Gemma 4 Edition
 
 > **Can your PC or Mac run Gemma 4 locally?** Stop guessing VRAM requirements. Enter your hardware specs and get an instant, personalized setup recommendation.
